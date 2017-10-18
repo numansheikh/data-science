@@ -1,2 +1,3 @@
-# data-science
-My Data Science projects
+# Data Science
+
+My Data Science projects, experiments and tutorials.
